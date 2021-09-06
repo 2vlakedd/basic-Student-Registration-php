@@ -25,7 +25,8 @@ else
 $LongGender='Female';
 
 echo"<h2>StudentNumber Registration</h2><hr>";
-echo"<h2>Welcome<b></h2>".$LastName.",".$FirstName.",".$MiddleName."</b><hr>";
-echo"<h2>Your Email Address:<b></h2>".$LongCourse."</b><hr>";
-echo"<h2>Your Gender:<b></h2>".$LongGender."</b><hr>";
+echo"<h2>Welcome<b></h2>".$LastName.",".$FirstName.",".$MiddleName."</b><br>";
+echo"<h2>Your Email:<b></h2>".$Email."</b><br>";
+echo"<h2>Your Course Choose:<b></h2>".$LongCourse."</b><br>";
+echo"<h2>Your Gender:<b></h2>".$LongGender."</b><br>";
 ?>	
